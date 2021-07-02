@@ -8,7 +8,7 @@ A real time rock paper scissors implementation using tensorflow and OpenCV
 
 ## Dataset Used
 Paper, Rock, Scissor CGI generated dataset by Laurence Moroney
-Available from [title]https://laurencemoroney.com/datasets.html
+Available from https://laurencemoroney.com/datasets.html
 
 
 ##Important Files
