@@ -11,7 +11,7 @@ Paper, Rock, Scissor CGI generated dataset by Laurence Moroney
 Available from https://laurencemoroney.com/datasets.html
 
 
-##Important Files
+## Important Files
 - main.py : where the training happens
 - testing.py : where the model is tested
 - realtime.py : where the model is loaded with opencv for realtime analysis
